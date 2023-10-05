@@ -1,0 +1,248 @@
+body {background-image: url("../img/fondo%20negro.jpg"); background-size: cover}
+
+.inicio {padding: 20px 0 0 140px; position: absolute; z-index:0 }
+
+.boton {width: 100px; height: 100px; float: left; margin: 500px 0 0 490px; }
+.boton img {width: 90%; height: 90%; }
+.blanco, .boton:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton a:link  {; float: left; position: relative; }
+
+.boton1 {width: 60px; height: 60px; float: left; margin: 380px 0 0 450px; }
+.boton1 img {width: 100%; height: 100%; }
+.blanco, .boton1:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton1:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton1 a:link  {; float: left; position: relative; }
+
+.boton2 {width: 60px; height: 60px; float: left; margin: 310px 0 0 260px; }
+.boton2 img {width: 100%; height: 100%;  }
+.blanco, .boton2:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton2:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton2 a:link  {; float: left; position: relative; }
+
+.boton3 {width: 60px; height: 60px; float: left; margin: 350px 0 0 150px; }
+.boton3 img {width: 100%; height: 100%;  }
+.blanco, .boton3:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton3:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton3 a:link  {; float: left; position: relative; }
+
+.boton4 {width: 60px; height: 60px; float: left; margin: 570px 0 0 230px; }
+.boton4 img {width: 100%; height: 100%; transform: rotate(270deg)  }
+.blanco, .boton4:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton4:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton4 a:link  {; float: left; position: relative; }
+
+.boton5 {width: 60px; height: 60px; float: left; margin: 330px 0 0 285px; }
+.boton5 img {width: 60%; height: 60%;  }
+.blanco, .boton5:hover .naranja{background-image: url("../img/guias/ojo1.png"); display: flex}
+.naranja, .boton5:hover .blanco{background-image: url("../img/guias/ojo2.png"); display: none}
+.boton5 a:link  {; float: left; position: relative; }
+
+.boton6 {width: 60px; height: 60px; float: left; margin: 20px 0 0 970px; }
+.boton6 img {width: 100%; height: 100%;  }
+.blanco, .boton6:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton6:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton6 a:link  {; float: left; position: relative; }
+
+.boton7 {width: 60px; height: 60px; float: left; margin: 380px 0 0 740px; }
+.boton7 img {width: 100%; height: 100%; }
+.blanco, .boton7:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton7:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton7 a:link  {; float: left; position: relative; }
+
+.boton8 {width: 60px; height: 60px; float: left; margin: 100px 0 0 820px; }
+.boton8 img {width: 60%; height: 60%;  }
+.blanco, .boton8:hover .naranja{background-image: url("../img/guias/ojo1.png"); display: flex}
+.naranja, .boton8:hover .blanco{background-image: url("../img/guias/ojo2.png"); display: none}
+.boton8 a:link  {; float: left; position: relative; }
+
+.boton9 {width: 60px; height: 60px; float: left; margin: 570px 0 0 1220px; z-index:2; }
+.boton9 img {width: 100%; height: 100%; z-index:2; transform: rotate(90deg)}
+.blanco, .boton9:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton9:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton9 a:link  {; float: left; position: relative; }
+
+.boton10 {width: 60px; height: 60px; float: left; margin: 610px 0 0 190px; }
+.boton10 img {width: 100%; height: 100%; transform: rotate(180deg)}
+.blanco, .boton10:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton10:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton10 a:link  {; float: left; position: relative; }
+
+.boton11 {width: 60px; height: 60px; float: left; margin: 570px 0 0 190px; }
+.boton11 img {width: 100%; height: 100%; transform: rotate(270deg) }
+.blanco, .boton11:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton11:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton11 a:link  {; float: left; position: relative; }
+
+.boton12 {width: 60px; height: 60px; float: left; margin: 260px 0 0 660px; }
+.boton12 img {width: 80%; height: 80%;  }
+.blanco, .boton12:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton12:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton12 a:link  {; float: left; position: relative; }
+
+.boton13 {width: 60px; height: 60px; float: left; margin: 300px 0 0 0px; }
+.boton13 img {width: 60%; height: 60%; }
+.blanco, .boton13:hover .naranja{background-image: url("../img/guias/ojo1.png"); display: flex}
+.naranja, .boton13:hover .blanco{background-image: url("../img/guias/ojo2.png"); display: none}
+.boton13 a:link  {; float: left; position: relative; }
+
+.boton14 {width: 60px; height: 60px; float: left; margin: 350px 0 0 0px; }
+.boton14 img {width: 80%; height: 80%; transform: rotate(90deg)}
+.blanco, .boton14:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton14:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton14 a:link  {; float: left; position: relative; }
+
+.boton15 {width: 60px; height: 60px; float: right; margin: 190px 700px 0 0; }
+.boton15 img {width: 100%; height: 100%; transform: rotate(180deg) }
+.blanco, .boton15:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton15:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton15 a:link  {; float: left; position: relative; }
+
+.boton16 {width: 60px; height: 60px; float: left; margin: 590px 0 0 250px; }
+.boton16 img {width: 100%; height: 100%; transform: rotate(270deg) }
+.blanco, .boton16:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton16:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton16 a:link  {; float: left; position: relative; }
+
+.boton17 {width: 60px; height: 60px; float: left; margin: 570px 0 0 1220px; }
+.boton17 img {width: 100%; height: 100%; transform: rotate(180deg) }
+.blanco, .boton17:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton17:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton17 a:link  {; float: left; position: relative; }
+
+.boton18 {width: 60px; height: 60px; float: left; margin: 550px 0 0 620px; }
+.boton18 img {width: 60%; height: 60%; }
+.blanco, .boton18:hover .naranja{background-image: url("../img/guias/ojo1.png"); display: flex}
+.naranja, .boton18:hover .blanco{background-image: url("../img/guias/ojo2.png"); display: none}
+.boton18 a:link  {; float: left; position: relative; }
+
+.boton19 {width: 60px; height: 60px; float: left; margin: 300px 0 0 190px; }
+.boton19 img {width: 100%; height: 100%;  }
+.blanco, .boton19:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton19:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton19 a:link  {; float: left; position: relative; }
+
+.boton20 {width: 60px; height: 60px; float: left; margin: 580px 0 0 1210px; }
+.boton20 img {width: 100%; height: 100%; transform: rotate(90deg)}
+.blanco, .boton20:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton20:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton20 a:link  {; float: left; position: relative; }
+
+.boton21 {width: 60px; height: 60px; float: left; margin: 580px 0 0 1210px; }
+.boton21 img {width: 100%; height: 100%; transform: rotate(90deg) }
+.blanco, .boton21:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton21:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton21 a:link  {; float: left; position: relative; }
+
+.boton22 {width: 60px; height: 60px; float: left; margin: 340px 0 0 360px; }
+.boton22 img {width: 100%; height: 100%;  }
+.blanco, .boton22:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton22:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton22 a:link  {; float: left; position: relative; }
+
+.boton23 {width: 60px; height: 60px; float: left; margin: 430px 0 0 170px; }
+.boton23 img {width: 60%; height: 60%; }
+.blanco, .boton23:hover .naranja{background-image: url("../img/guias/ojo1.png"); display: flex}
+.naranja, .boton23:hover .blanco{background-image: url("../img/guias/ojo2.png"); display: none}
+.boton23 a:link  {; float: left; position: relative; }
+
+.boton24 {width: 60px; height: 60px; float: left; margin: 280px 0 0 840px; }
+.boton24 img {width: 100%; height: 100%;  }
+.blanco, .boton24:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton24:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton24 a:link  {; float: left; position: relative; }
+
+.boton25 {width: 60px; height: 60px; float: right; margin: 50px 700px 0 0; z-index:2 ; position: relative; }
+.boton25 img {width: 60%; height: 60%; z-index:2; }
+.blanco, .boton25:hover .naranja{background-image: url("../img/guias/ojo1.png"); display: flex}
+.naranja, .boton25:hover .blanco{background-image: url("../img/guias/ojo2.png"); display: none}
+.boton25 a:link  {; float: left; }
+
+.boton26 {width: 60px; height: 60px; float: left; margin: 620px 0 0 700px; position: absolute;}
+.boton26 img {width: 100%; height: 100%; transform: rotate(180deg) }
+.blanco, .boton26:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton26:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton26 a:link  {; float: left; }
+
+.boton27 {width: 60px; height: 60px; float: left; margin: 570px 0 0 1220px; }
+.boton27 img {width: 100%; height: 100%; transform: rotate(180deg) }
+.blanco, .boton27:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton27:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton27 a:link  {; float: left; position: relative; }
+
+.boton28 {width: 60px; height: 60px; float: left; margin: 500px 0 0 190px; }
+.boton28 img {width: 100%; height: 100%; transform: rotate(90deg) }
+.blanco, .boton28:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton28:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton28 a:link  {; float: left; position: relative; }
+
+.boton29 {width: 60px; height: 60px; float: left; margin: 320px 0 0 500px; }
+.boton29 img {width: 100%; height: 100%;  }
+.blanco, .boton29:hover .naranja{background-image: url("../img/guias/flecha1.png"); display: flex}
+.naranja, .boton29:hover .blanco{background-image: url("../img/guias/flecha2.png"); display: none}
+.boton29 a:link  {; float: left; position: relative; }
+
+.boton30 {width: 60px; height: 60px; float: left; margin: 350px 0 0 430px; }
+.boton30 img {width: 60%; height: 60%;  }
+.blanco, .boton30:hover .naranja{background-image: url("../img/guias/ojo1.png"); display: flex}
+.naranja, .boton30:hover .blanco{background-image: url("../img/guias/ojo2.png"); display: none}
+.boton30 a:link  {; float: left; position: relative; }
+
+.boton31 {width: 60px; height: 60px; float: left; margin: 410px 0 0 230px; }
+.boton31 img {width: 60%; height: 60%;  }
+.blanco, .boton31:hover .naranja{background-image: url("../img/guias/ojo1.png"); display: flex}
+.naranja, .boton31:hover .blanco{background-image: url("../img/guias/ojo2.png"); display: none}
+.boton31 a:link  {; float: left; position: relative; }
+
+
+.titulo {float: left; position: relative; color: white; margin: 300px 0 0 320px; font-size: 25px; }
+
+.titulo1 {float: left; position: absolute; color: white; margin: 580px 0 0 1050px; font-size: 25px; }
+
+.titulo2 {float: left; position: absolute; color: white; margin: 300px 0 0 500px; font-size: 25px; }
+
+.titulo3 {float: left; position: absolute; color: white; margin: 600px 0 0 200px; font-size: 25px; }
+
+.titulo4 {float: left; position: absolute; color: white; margin: 300px 0 0 220px; font-size: 25px; width: 1100px; height: 200px; text-align: center;}
+
+h1,h2,p {font-family: 'Pixelify Sans', cursive;}
+
+
+
+.txt {float: left; position: relative; width: 350px; height: 80px; text-align: center; margin: 0 0 70px 325px;}
+.txt p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; }
+
+.txt1 {float: left; position: absolute; width: 330px; height: 80px; text-align: center; margin: 310px 0 0 600px; background-color: black; }
+.txt1 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 30px 0 21px}
+
+.txt2 {float: left; position: absolute; width: 600px; height: 260px; text-align: center; margin: 445px 0 0 160px; background-color: black; }
+.txt2 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 15px 0 15px}
+
+.txt3 {float: left; position: absolute; width: 600px; height: 110px; text-align: center; margin: 245px 0 0 760px; background-color: black; }
+.txt3 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 15px 0 15px}
+
+.txt4 {float: left; position: absolute; width: 380px; height: 90px; text-align: center; margin: 445px 0 0 960px; background-color: black; }
+.txt4 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 15px 0 15px}
+
+.txt5 {float: left; position: absolute; width: 380px; height: 80px; text-align: center; margin: 310px 0 0 190px; background-color: black; }
+.txt5 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 30px 0 21px}
+
+.txt6 {float: left; position: absolute; width: 600px; height: 175px; text-align: center; margin: 525px 0 0 160px; background-color: black; }
+.txt6 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 15px 0 15px}
+
+.txt7 {float: left; position: absolute; width: 600px; height: 145px; text-align: center; margin: 525px 0 0 160px; background-color: black; }
+.txt7 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 15px 0 15px}
+
+.txt8 {float: left; position: absolute; width: 570px; height: 85px; text-align: center; margin: 225px 0 0 160px; background-color: black; }
+.txt8 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 15px 0 15px}
+
+.txt8 {float: left; position: absolute; width: 570px; height: 85px; text-align: center; margin: 225px 0 0 160px; background-color: black; }
+.txt8 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 15px 0 15px}
+
+.txt9 {float: left; position: absolute; width: 500px; height: 175px; text-align: center; margin: 70px 0 0 190px; background-color: black; }
+.txt9 p {float: left; position: relative; color: white; font-size: 25px; text-align: justify; padding: 0 30px 0 21px}
+
+
+.cadaver {float: left; position: absolute; width: 20%; height: 20%; z-index:1 ; margin: 360px 0 0 670px}
+
+.blob {float: left; position: absolute; width: 50%; height: 50%; z-index:1 ; margin: 30px 0 0 470px}
